@@ -7,6 +7,8 @@ cleaningproject
 There is only one script, that takes the data, processes it and creates a dataset.txt with the required data-
 See CodeBook.md for information on the variable meanings.
 
+Thw script run_analysis.R :
+
 - Merges the training and the test sets to create one data set.
 
 - Extracts only the measurements on the mean and standard deviation for each measurement. 
